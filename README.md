@@ -1,6 +1,18 @@
-Ninique's Dollmaker Script
-==========================
+Ninique's Dollmaker Script Updated
+==================================
 
+This is a very easy to use Dollmaker script that was originally created by
+Ninique. However, over time development on it stopped, and the scripts
+became outdated. Since I decided to use the script for my own dollmaker
+on my website, I cleaned it up a bit, and there's been some more interest
+in it from folks who wanted to do something similar. So I've fixed the
+outdated dependencies and added some of my own changes to update it
+further and make it easier to use.
+-FrugalGamer
+
+==================================
+
+**Original info**
 This is a script written with the aid of jQuery, that you can use to create
 your own dollmaker (dressup game). I made it easy for people to add/remove
 pieces to the dollmaker, without having to edit the html page overtime
